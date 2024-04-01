@@ -1,8 +1,6 @@
 <h1 align="center">Hola 👋, I'm Hardik Kothari</h1>
 <h3 align="center">A Passionate Software Developer from India with expertise in a variety of programming languages and frameworks, along with a strong background in web development, and database management. 🚀</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hardikko&label=Profile%20views&color=0e75b6&style=flat" alt="hardikko" /> </p>
-
 - 🔭 I’m currently working on [E-Commerce Project in Go Lang with Mongodb](https://github.com/hardikko/Ecommerce-GOProject)
 
 - 🤝 I’m looking for help with [Password Login Project](https://github.com/hardikko/passwordLogin)

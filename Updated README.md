@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [E-Commerce Project in Go Lang with Mongodb](https://github.com/hardikko/Ecommerce-GOProject)
 
-- 🤝 I’m looking for help with [Password Login Project](https://github.com/hardikko/passwordLogin)
-
 - 👯 I've completed [Financers Project](https://github.com/hardikko/Financers-Project)
 
 - 📧 Drop me an email, and I'll get back to you as soon as possible - **kothari.hardik23@gmail.com**

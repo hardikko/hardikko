@@ -21,7 +21,7 @@
 </p>
 <p align="center">
   
-  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/hardik_2307?theme=dark&font=Nunito&ext=heatmap" />  
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/hardik_2307?theme=dark&font=Roboto&ext=heatmap" />  
 </p>
 
 <p align="center">

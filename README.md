@@ -20,6 +20,11 @@
   <a href="https://leetcode.com/u/hardik_2307/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-06.gif" alt="jyot" height="200" width="200" /></a>
 </p>
 <p align="center">
+  
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/hardik_2307?theme=dark&font=Nunito&ext=heatmap" />  
+</p>
+
+<p align="center">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hardikk88215680" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hardikk88215680" height="30" width="40" /></a>
